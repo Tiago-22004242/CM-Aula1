@@ -6,7 +6,6 @@ void impares(var lista) {
   }
 }
 
-
 class Figura{
   double _comprimento, _altura;
   Figura(this._comprimento, this._altura);
